@@ -59,6 +59,8 @@ ZSH_HIGHLIGHT_STYLES[named-fd]='fg=#F8BD96'
 ZSH_HIGHLIGHT_STYLES[numeric-fd]='fg=#F8BD96'
 ## No category relevant in spec
 ZSH_HIGHLIGHT_STYLES[unknown-token]='fg=#E78284'
+# Invalid/unknown commands should be red for clear error indication
+ZSH_HIGHLIGHT_STYLES[command-not-found]='fg=#E78284'
 ZSH_HIGHLIGHT_STYLES[path]='fg=#D9E0EE,underline'
 ZSH_HIGHLIGHT_STYLES[path_pathseparator]='fg=#D9E0EE,underline'
 ZSH_HIGHLIGHT_STYLES[path_prefix]='fg=#D9E0EE,underline'
