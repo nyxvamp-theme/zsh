@@ -12,12 +12,15 @@ a minimalist theme collection, inspired by a blend of gothic and emo aesthetics 
 
 3. **radiance**: light theme optimized for daylight use, ensuring excellent readability.
 
+4. **jhujuba**: pink-tinted mid-dark theme, sweeter than veil.
+
 ## usage
 
 1. download one of the theme files:
    - `nyxvamp-veil.zsh`
    - `nyxvamp-obsidian.zsh`
    - `nyxvamp-radiance.zsh`
+   - `nyxvamp-jhujuba.zsh`
 
 2. source the theme in your `~/.zshrc` before activating zsh-syntax-highlighting:
    ```bash
