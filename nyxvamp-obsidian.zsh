@@ -13,7 +13,7 @@ typeset -gA ZSH_HIGHLIGHT_STYLES
 ### Markup
 ## Classes
 ## Comments
-ZSH_HIGHLIGHT_STYLES[comment]='fg=#5E5A76'
+ZSH_HIGHLIGHT_STYLES[comment]='fg=#8682A0'
 ## Constants
 ## Entitites
 ## Functions/methods
